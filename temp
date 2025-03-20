@@ -1,0 +1,4 @@
+artifactsmmo.com
+pip install faiss-cpu
+pip freeze > requirements.txt
+https://ai.google.dev/gemini-api/docs/api-key?hl=ru
